@@ -4,3 +4,5 @@
 ![Image text](https://github.com/Inna2609/Inna2609/blob/main/img/Inna-min.png)
 
 ![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inna2609&theme=jolly&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inna2609&layout=compact)](https://github.com/Inna2609/github-readme-stats)
